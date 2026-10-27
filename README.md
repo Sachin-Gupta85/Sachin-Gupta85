@@ -119,9 +119,20 @@
 
 ## 📫 Contact
 
-<!-- Fill these in before pushing -->
-- 🔗 LinkedIn: _add your LinkedIn URL_
-- ✉️ Email: _add the email you want public_
+<p>
+  <a href="https://www.linkedin.com/in/saching85/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:saching852002@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Sachin-Gupta85">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+- 🔗 LinkedIn: [in/saching85](https://www.linkedin.com/in/saching85/)
+- ✉️ Email: [saching852002@gmail.com](mailto:saching852002@gmail.com)
 - 💻 GitHub: [@Sachin-Gupta85](https://github.com/Sachin-Gupta85)
 
 <div align="center">
