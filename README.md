@@ -48,7 +48,13 @@
 | **SWE-bench style** | [`tbench-swe-task`](https://github.com/Sachin-Gupta85/tbench-swe-task) | Planted-bug fix tasks with hidden graders | ✅ 4 tasks |
 | **Long-horizon agents** | [`tbench-longhorizon-task`](https://github.com/Sachin-Gupta85/tbench-longhorizon-task) | Engine-building tasks (spreadsheet engine, mini-VM, regex matcher) | ✅ 4 tasks |
 | **Algorithms / Systems / ML** | [`tbench-algorithms`](https://github.com/Sachin-Gupta85/tbench-algorithms) · [`tbench-systems`](https://github.com/Sachin-Gupta85/tbench-systems) · [`tbench-ml-training`](https://github.com/Sachin-Gupta85/tbench-ml-training) | Exact algorithm, OS-sim, and from-scratch ML training tasks | ✅ 12 tasks |
+| **RLVR / verifiable rewards** | [`rlvr-verifiers`](https://github.com/Sachin-Gupta85/rlvr-verifiers) | Answer extraction + exact math verification (no SymPy) + reward shaping | ✅ 17 |
+| **Reasoning audit** | [`cot-reasoning-auditor`](https://github.com/Sachin-Gupta85/cot-reasoning-auditor) | Chain-of-thought checks: arithmetic, contradiction, answer-consistency, grounding | ✅ 17 |
+| **GAIA-style agents** | [`gaia-agent-eval`](https://github.com/Sachin-Gupta85/gaia-agent-eval) | Faithful GAIA scorer, offline tools, per-level accuracy + tool coverage | ✅ 10 |
+| **Safety / red-team** | [`model-redteam-harness`](https://github.com/Sachin-Gupta85/model-redteam-harness) | Refusal classifier + per-category Attack Success Rate (defensive) | ✅ 10 |
 | **Observability** | [`llm-observability`](https://github.com/Sachin-Gupta85/llm-observability) | Span tracing, cost accounting, p95/p99, error taxonomy, regression gate | ✅ 26 |
+
+> 📚 **Field map:** [`awesome-ai-evaluations`](https://github.com/Sachin-Gupta85/awesome-ai-evaluations) — a curated guide to LLM/agent benchmarks, methodology, statistics, safety, and frameworks.
 
 ---
 
